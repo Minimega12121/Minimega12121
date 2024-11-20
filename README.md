@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minimega12121&label=Profile%20views&color=0e75b6&style=flat" alt="minimega12121" /> </p>
 
-- 🔭 I recently worked on SoR 2024 [https://ucsc-ospo.github.io/report/osre24/intel/20240822-architd/]
+- 🔭 I recently did Summer of Reproducibility 2024 Fellowship: <a href="https://ucsc-ospo.github.io/report/osre24/intel/20240822-architd/">Check out my blog</a>
 
-- 💬 Ask me about **blockchain**
+- 💬 Ask me about **Smart_Contracts** , **Web3**, **DeFi**, **Backend**
 
 - 📫 How to reach me **architdabral1234567890@gmail.com**
 
