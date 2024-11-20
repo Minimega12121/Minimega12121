@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minimega12121&label=Profile%20views&color=0e75b6&style=flat" alt="minimega12121" /> </p>
 
-- 🔭 I’m currently working on SoR 2024' [Automatic reproducibility of COMPSs experiments through the integration of RO-Crate in Chameleon](https://ucsc-ospo.github.io/project/osre24/bsc/ro-crate-compss/)
+- 🔭 I recently worked on SoR 2024 [https://ucsc-ospo.github.io/report/osre24/intel/20240822-architd/]
 
 - 💬 Ask me about **blockchain**
 
