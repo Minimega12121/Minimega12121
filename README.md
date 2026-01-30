@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minimega12121&label=Profile%20views&color=0e75b6&style=flat" alt="minimega12121" /> </p>
 
-- 🐧 Currently a LFX mentee at CNCF/WasmEdge for the project: <a href="https://mentorship.lfx.linuxfoundation.org/project/a0542cf9-a862-4055-8961-d2aede3d91a6">Cick me</a>
+- 🐧 Completed my LFX mentorship at CNCF/WasmEdge for the project: <a href="https://mentorship.lfx.linuxfoundation.org/project/a0542cf9-a862-4055-8961-d2aede3d91a6">Cick me</a>
 
 - 🔭 Summer of Reproducibility 2024 Fellowship: <a href="https://ucsc-ospo.github.io/report/osre24/intel/20240822-architd/">Check out my blog</a>
 
